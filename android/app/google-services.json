@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844808791559",
+    "firebase_url": "https://greengrocer-73ed3.firebaseio.com",
+    "project_id": "greengrocer-73ed3",
+    "storage_bucket": "greengrocer-73ed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844808791559:android:dc6230eb8f1f283bb6eca2",
+        "android_client_info": {
+          "package_name": "bloomingflutter.greengrocers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844808791559-bsepsas1fa8vq0aoaqv54civh1hdiknd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bloomingflutter.greengrocers",
+            "certificate_hash": "490759b5278443eba565947e5eb5727942d4745e"
+          }
+        },
+        {
+          "client_id": "844808791559-l6uovn02m07jma0cr6pspe5d32f9cmqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP6tOaLMHitLPAPLR7GLC9CZZavQR-GNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844808791559-l6uovn02m07jma0cr6pspe5d32f9cmqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
